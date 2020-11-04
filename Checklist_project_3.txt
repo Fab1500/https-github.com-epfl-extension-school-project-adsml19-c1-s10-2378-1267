@@ -1,0 +1,22 @@
+Warm-up - task 1
+
+- [x] Plot model curve
+- [x] Compute RSS, R^2
+- [x] Write comment about results
+
+Warm-up - task 2
+
+- [x] Fit a linear regression with the outliers
+- [x] Fit a huber regression with the outliers
+- [x] Fit a linear regression without the outliers
+- [x] Evaluate test MAE scores, check that the last two perform better
+
+House prices analysis
+
+- [x] Perform data cleaning, outliers removal
+- [x] Perform feature encoding
+- [x] Perform feature engineering
+- [x] Create baseline, simple, intermediate, complex models
+- [x] Apply regularization, tune model with grid search
+- [x] Compare test MAE scores ex. bar chart
+- [x] Save predictions in .csv files, make sure that format is identical to predictions-example.csv
